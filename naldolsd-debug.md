@@ -1,0 +1,3 @@
+Sou um profissional da área de TI, graduado em Gestão da Tecnologia da Informação e pós-graduado em Gestão de Projetos e Metodologias Ágeis. Atualmente, estou cursando MBA em Ciência de Dados e Inteligência Artificial, ampliando meus conhecimentos para atuar de forma mais analítica e estratégica no universo da tecnologia, no qual tenho mais de 10 anos de experiência.
+
+Atuei em diversas frentes, incluindo sustentação de aplicações, monitoramento, testes funcionais, análise funcional, produtos e projetos.
